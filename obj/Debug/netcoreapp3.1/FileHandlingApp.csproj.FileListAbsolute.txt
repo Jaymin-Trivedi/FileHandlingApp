@@ -1,0 +1,13 @@
+C:\Users\JAYMIN\source\repos\FileHandlingApp\bin\Debug\netcoreapp3.1\FileHandlingApp.exe
+C:\Users\JAYMIN\source\repos\FileHandlingApp\bin\Debug\netcoreapp3.1\FileHandlingApp.deps.json
+C:\Users\JAYMIN\source\repos\FileHandlingApp\bin\Debug\netcoreapp3.1\FileHandlingApp.runtimeconfig.json
+C:\Users\JAYMIN\source\repos\FileHandlingApp\bin\Debug\netcoreapp3.1\FileHandlingApp.runtimeconfig.dev.json
+C:\Users\JAYMIN\source\repos\FileHandlingApp\bin\Debug\netcoreapp3.1\FileHandlingApp.dll
+C:\Users\JAYMIN\source\repos\FileHandlingApp\bin\Debug\netcoreapp3.1\FileHandlingApp.pdb
+C:\Users\JAYMIN\source\repos\FileHandlingApp\obj\Debug\netcoreapp3.1\FileHandlingApp.csprojAssemblyReference.cache
+C:\Users\JAYMIN\source\repos\FileHandlingApp\obj\Debug\netcoreapp3.1\FileHandlingApp.csproj.CoreCompileInputs.cache
+C:\Users\JAYMIN\source\repos\FileHandlingApp\obj\Debug\netcoreapp3.1\FileHandlingApp.AssemblyInfoInputs.cache
+C:\Users\JAYMIN\source\repos\FileHandlingApp\obj\Debug\netcoreapp3.1\FileHandlingApp.AssemblyInfo.cs
+C:\Users\JAYMIN\source\repos\FileHandlingApp\obj\Debug\netcoreapp3.1\FileHandlingApp.dll
+C:\Users\JAYMIN\source\repos\FileHandlingApp\obj\Debug\netcoreapp3.1\FileHandlingApp.pdb
+C:\Users\JAYMIN\source\repos\FileHandlingApp\obj\Debug\netcoreapp3.1\FileHandlingApp.genruntimeconfig.cache
